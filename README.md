@@ -1,6 +1,6 @@
 # MOwNiT - Methods of Computing in Science and Technology
 
-To repozytorium zawiera rozwiązania laboratorium prowadzonych w ramach kursu "Methods of Computing in Science and Technology" na Akademii Górniczo-Hutniczej w Krakowie.
+This repository contains the solutions of the laboratory conducted as part of the course 'Methods of Computing in Science and Technology' at the AGH University of Science and Technology in Krakow.
 
 ## Contents:
 1.  [Error analysis](https://github.com/arturgesiarz/MOwNiT/tree/origin/lab01)
